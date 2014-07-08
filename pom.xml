@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <!-- The basics. -->
-  <groupId>net.hydromatic</groupId>
+  <groupId>org.apache</groupId>
   <artifactId>linq4j</artifactId>
   <packaging>jar</packaging>
   <version>0.5-SNAPSHOT</version>
@@ -138,7 +138,7 @@
         <version>2.15</version>
         <configuration>
           <includes>
-            <include>net/hydromatic/linq4j/test/Linq4jSuite.java</include>
+            <include>org/apache/linq4j/test/Linq4jSuite.java</include>
           </includes>
         </configuration>
       </plugin>
