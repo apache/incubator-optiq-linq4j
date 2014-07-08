@@ -128,7 +128,7 @@
     <module name="IllegalImport" />
 
     <module name="ImportOrder">
-      <property name="groups" value="net.hydromatic.lambda,net.hydromatic.linq4j,au.com.,com.,org.,/^javax?\./"/>
+      <property name="groups" value="org.apache.lambda,org.apache.linq4j,au.com.,com.,org.,/^javax?\./"/>
       <property name="ordered" value="true"/>
       <property name="separated" value="true"/>
       <property name="option" value="bottom"/>

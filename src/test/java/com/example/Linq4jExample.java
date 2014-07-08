@@ -17,8 +17,8 @@
 */
 package com.example;
 
-import net.hydromatic.linq4j.Linq4j;
-import net.hydromatic.linq4j.function.*;
+import org.apache.linq4j.Linq4j;
+import org.apache.linq4j.function.*;
 
 /**
  * Example using linq4j to query in-memory collections.

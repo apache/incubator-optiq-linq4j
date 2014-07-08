@@ -4,7 +4,7 @@ Copyright (C) 2012-2014, Julian Hyde
 This product includes software developed by Julian Hyde
 (http://www.hydromatic.net).
 
-Software in the net.hydromatic.lambda package is based on APIs
+Software in the org.apache.lambda package is based on APIs
 of the OpenJDK Lambda prototype (http://hg.openjdk.java.net/lambda/lambda/jdk).
 
 Licensed under the Apache License, Version 2.0 (the "License");
